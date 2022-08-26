@@ -50,7 +50,7 @@ const (
 	pathPrometheus = "/api/prometheus"
 	defaultPort    = 5665
 	defaultPeriod  = 10
-	defaultUI      = "https://xk6-dashboard.netlify.app/"
+	defaultUI      = "http://localhost:3000/"
 )
 
 type options struct {
